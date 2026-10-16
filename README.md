@@ -1,4 +1,3 @@
-# modelado-botella-solidos-revolucion
 # Modelado de una botella mediante sólidos de revolución
 
 Proyecto académico desarrollado para la materia de **Cálculo II** de la Licenciatura en Matemáticas Aplicadas y Computación en la Facultad de Estudios Superiores Acatlán, UNAM.
